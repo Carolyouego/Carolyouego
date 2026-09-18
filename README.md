@@ -1,4 +1,4 @@
-# Bonjour, je suis Caroline
+# Bonjour, je suis Caroline Youego
 
 ### Data Analyst | Business Intelligence | SQL Server . Power BI . Tableau . Power Query . ETL . Modélisation
 
