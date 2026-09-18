@@ -69,7 +69,7 @@ des indicateurs permettant de mieux comprendre la structure et les performances 
 
 **Technologies :** SQL Server • Power BI
 
-Publication du projet sur GitHub à venir
+Projet terminé - Publication sur GitHub à venir
 
 ---
 
@@ -81,7 +81,7 @@ opportunités d'amélioration de la gestion des stocks.
 
 **Technologies :** SQL Server • Python • Pandas • Power BI
 
-Projet en développement
+Projet à venir
 
 ---
 
