@@ -21,14 +21,6 @@ analyse et création de tableaux de bord interactifs.**
 <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel" />
 <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-blue?style=for-the-badge" />
 
-</p>
-
-**Data & BI :** Power BI • Tableau • Excel • Power Query • DAX  
-**Bases de données :** SQL Server • MySQL • SQL  
-**Programmation :** Python • Pandas • R  
-**Automatisation :** Power Automate • SharePoint • BigQuery
-
----
 ## Compétences techniques
 
 ### Business Intelligence & Data Visualization
