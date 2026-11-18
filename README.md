@@ -1,6 +1,6 @@
 # Bonjour, je suis Caroline Youego
 
-### Analyste de données | Intelligence d'affaires (BI) | Power BI • SQL Server • SSIS • Visual Studio • DAX • Tableau | Ouverte aux opportunités
+### Analyste de données | Intelligence d'affaires (BI) | Power BI • SQL Server •  Python  • SSIS • Visual Studio • DAX • Tableau | Ouverte aux opportunités
 
 Bonjour et bienvenue sur mon profil !
 
